@@ -75,8 +75,8 @@
 				7C361D61286B3DF60079E9F0 /* Bundle-Decodable.swift */,
 				7C361D63286B7D7E0079E9F0 /* Mission.swift */,
 				7C361D5F286B3D620079E9F0 /* Astronaut.swift */,
-				7C361D66286B7FF40079E9F0 /* astronauts.json */,
 				7C361D65286B7FF40079E9F0 /* missions.json */,
+				7C361D66286B7FF40079E9F0 /* astronauts.json */,
 				7C361D55286B3D310079E9F0 /* Assets.xcassets */,
 				7C361D57286B3D310079E9F0 /* Preview Content */,
 			);
